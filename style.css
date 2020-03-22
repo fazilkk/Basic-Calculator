@@ -1,11 +1,19 @@
-.myFont2{
+.myFont2 {
     color: green;
 }
 
-.myborder{
+.myborder {
     border: solid 5px blue;
 }
 
-.myMargin{
+.myMargin {
     margin: 5px;
+}
+
+body#bodyid {
+    background-color: coral;
+}
+
+.col-md-4 {
+    background-color: cornsilk;
 }
